@@ -1,0 +1,93 @@
+2019-06-29 12:17:46 INFO - 服务已启动，监听端口：8080
+2019-06-29 12:46:33 INFO - 服务已启动，监听端口：8080
+2019-06-29 12:46:44 INFO - 请继续输入对话...
+2019-06-29 12:46:44 INFO - 成功连接服务器，已执行登录操作！
+2019-06-29 12:46:44 INFO - Tom你好，请在控制台输入内容：
+2019-06-29 12:46:44 INFO - Sokect client:与客户端断开连接：2
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:01 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:06 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:06 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:10 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:10 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:10 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:10 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:10 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:10 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:40 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:47:40 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:14 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:14 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:25 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:25 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:55 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:48:55 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:10 INFO - 服务已启动，监听端口：8080
+2019-06-29 12:49:19 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:19 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:19 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:19 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:19 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:19 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:52 INFO - 服务已启动，监听端口：8080
+2019-06-29 12:49:57 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:57 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:57 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:57 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:57 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:49:57 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:00 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:00 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:04 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:04 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:04 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:04 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:04 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:04 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:13 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:50:13 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:53:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:53:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:53:20 INFO - Sokect client:与客户端断开连接：org.msgpack.MessageTypeException: Expected array, but got integer value
+2019-06-29 12:54:58 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:01:28 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:02:11 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:15:32 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:20:28 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:23:10 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:24:45 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:32:10 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:33:40 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:36:11 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:41:19 INFO - 服务已启动，监听端口：8080
+2019-06-29 13:43:02 INFO - 请继续输入对话...
+2019-06-29 13:43:02 INFO - 成功连接服务器，已执行登录操作！
+2019-06-29 13:43:02 INFO - Tom你好，请在控制台输入内容：
+2019-06-29 13:43:02 INFO - 
+2019-06-29 13:43:10 INFO - 请继续输入对话...
+2019-06-29 13:43:19 INFO - 
+2019-06-29 13:43:24 INFO - 
+2019-06-29 13:43:29 INFO - 请继续输入对话...
+2019-06-29 13:43:40 INFO - you:123
+2019-06-29 13:44:06 INFO - 请继续输入对话...
+2019-06-29 13:45:31 INFO - 服务已启动，监听端口：8080
+2019-06-29 20:37:14 INFO - 服务已启动，监听端口：8080
+2019-06-29 20:58:42 INFO - 服务已启动，监听端口：8080
